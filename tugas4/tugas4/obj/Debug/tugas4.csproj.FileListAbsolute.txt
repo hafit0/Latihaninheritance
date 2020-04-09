@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\tugas4\tugas4\bin\Debug\tugas4.exe.config
+C:\Users\ASUS\source\repos\tugas4\tugas4\bin\Debug\tugas4.exe
+C:\Users\ASUS\source\repos\tugas4\tugas4\bin\Debug\tugas4.pdb
+C:\Users\ASUS\source\repos\tugas4\tugas4\obj\Debug\tugas4.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\tugas4\tugas4\obj\Debug\tugas4.exe
+C:\Users\ASUS\source\repos\tugas4\tugas4\obj\Debug\tugas4.pdb
